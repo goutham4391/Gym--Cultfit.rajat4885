@@ -1,0 +1,23 @@
+{
+  "name": "cure.fit",
+  "short_name":"cure.fit",
+  "icons": [
+    {
+      "src": "https://cdn-images.cure.fit/www-curefit-com/image/upload/image/cf-logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "density": 1.0
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "fit.cure.android"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1B1E26",
+  "background_color": "#1B1E26"
+}

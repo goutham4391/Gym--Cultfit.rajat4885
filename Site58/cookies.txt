@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cult.fit	TRUE	/	FALSE	1999999999	st	s%3ACFAPP%3A090caa69-3304-4569-b5c8-41f9a786e43b.JtzNR%2BGCeWV5Xf2klkZC5WBGxaChFbsVvxrOD3yZG9k
+.cult.fit	TRUE	/	FALSE	1999999999	at	s%3ACFAPP%3A26661d6e-47ad-4f18-97f0-6b7a8b8c6087.wITr1e7YUGp%2Bd09C4vCcUluBGZRLduWZpxGCSvzWxVI
+.cult.fit	TRUE	/	FALSE	1999999999	deviceId	s%3Ada3d0ef4-6128-4c0a-993d-3d79e3ce0930.Q31XBvKHnpfv8vbCjibcnUAcDagCiwI4rkB0rGVoiPA
+
